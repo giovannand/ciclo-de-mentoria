@@ -16,3 +16,24 @@ Cada ciclo tem a duração de **3 meses** e são divididos em sprints com duraç
 Após isso, utilize a aba `Projects` esse repositório para planejar suas sprints e acompanhar o andamento da monitoria.
 
 #### Entre, leia, fique a vontade!
+
+
+# Authentication 
+
+Esta aplicação tem como objetivo a construção de uma API de authenticação. 
+
+Para rodar a aplicação, vá para a pasta authentication e execute os seguintes comandos: 
+ˋˋˋ
+export FLASK_APP=flaskr
+ ˋˋˋ
+
+ˋˋˋ
+export FLASK_ENV=development
+ ˋˋˋ
+
+ˋˋˋ
+flask run
+ ˋˋˋ
+
+
+Para visualizar a aplicação, vá para o endereço http://127.0.0.1:5000/

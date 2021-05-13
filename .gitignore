@@ -1,0 +1,14 @@
+authentication/env/
+
+*.pyc
+authentication/__pycache__/
+
+authentication/instance/
+
+authentication/.pytest_cache/
+authentication/.coverage
+authentication/htmlcov/
+
+authentication/dist/
+authentication/build/
+*.egg-info/
